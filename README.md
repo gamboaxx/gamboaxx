@@ -1,5 +1,18 @@
 ## Hi there 👋
+👨‍💻 Emmanuel Gamboa | Software Engineer in the Making 🚀
+🌍 From: Costa Rica
+🎓 Studying: Information Systems Engineering
+🛠 Tech Stack: Java ☕ | C++ 🖥 | Docker 🐳 | JPA 🗄
+📌 Passionate about: Software Development, Backend Systems, and Scalable Solutions
 
+🔥 What I Do
+🏗 Build projects with Java & C++
+🏴‍☠️ Experiment with Docker & JPA for backend systems
+🔍 Always learning new technologies!
+📂 Projects
+🔹 Check out my repositories for exciting projects!
+
+🚀 Let's code and build something amazing together!
 <!--
 **gamboaxx/gamboaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
