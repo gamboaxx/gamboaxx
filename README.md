@@ -1,3 +1,6 @@
+<!-- Banner superior -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:10B981&height=200&section=header&text=Emmanuel%20Gamboa%20🚀&fontSize=40&fontColor=ffffff" />
+
 <h1 align="center">Hi there 👋, I'm Emmanuel Gamboa</h1>
 <h3 align="center">💻 Software Engineer in the Making | Backend Developer | Always Learning 🚀</h3>
 
@@ -12,20 +15,28 @@
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack & Tools
 
-- 💻 **Languages**: Java ☕ | C++ | SQL
-- 🔧 **Tools & Frameworks**: Maven | JavaFX | MaterialFX | JPA | Spring (in progress)
-- 🐳 **Technologies**: Docker | Git | GitHub
-- 💼 **IDEs**: IntelliJ IDEA | NetBeans
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-1B1F23?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MaterialFX-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+</p>
 
 ---
 
 ### 🔥 What I Do
 
-- 🧠 Build projects with **Java** & **C++**
-- 📦 Experiment with **Docker**, **JPA** and backend architecture
-- 📈 Always exploring new technologies and best practices
+- 🧠 Build robust backend applications with **Java & C++**
+- 📦 Work with **Maven**, **JPA**, **MaterialFX**, and **JavaFX**
+- 🐳 Explore containerized environments with **Docker**
+- 📈 Continuously improve my coding and architecture skills
 
 ---
 
@@ -36,10 +47,12 @@
 
 ---
 
-### 🤝 Let's Connect!
+### 📫 Contact Me
 
-- 📫 Email: **gamboae730@gmail.com**
-- 💬 Open to collaborations, team projects, and continuous learning
+- ✉️ **Email:** [gamboae730@gmail.com](mailto:gamboae730@gmail.com)  
+- 💼 **LinkedIn:** [Tu perfil de LinkedIn aquí](https://www.linkedin.com/in/TU_USUARIO_LINKEDIN)
+
+> *(Reemplazá ese link con tu URL real de LinkedIn si tenés)*
 
 ---
 
@@ -48,4 +61,6 @@
 
 ---
 
-**Let’s code and build something amazing together! 🚀**
+<p align="center">Let's connect, code, and build something amazing together! 🚀</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:3B82F6&height=150&section=footer"/>
