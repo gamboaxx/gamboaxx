@@ -1,38 +1,51 @@
-## Hi there 👋
-👨‍💻 Emmanuel Gamboa | Software Engineer in the Making 🚀
+<h1 align="center">Hi there 👋, I'm Emmanuel Gamboa</h1>
+<h3 align="center">💻 Software Engineer in the Making | Backend Developer | Always Learning 🚀</h3>
 
-🌍 From: Costa Rica
+---
 
-🎓 Studying: Information Systems Engineering
+### 📍 About Me
 
-🛠 Tech Stack: Java ☕ | C++ 🖥 | Docker 🐳 | JPA 🗄
+- 🎓 Studying **Information Systems Engineering** at **Universidad Nacional de Costa Rica**  
+- 🌎 From **Costa Rica**
+- 💡 Passionate about **Software Development**, **Backend Systems**, and **Scalable Solutions**
+- 🌱 Currently learning **Spring Boot**, **Microservices**, and **DevOps Tools**
 
-📌 Passionate about: Software Development, Backend Systems, and Scalable Solutions
+---
 
-🔥 What I Do
+### ⚙️ Tech Stack
 
-🏗 Build projects with Java & C++
+- 💻 **Languages**: Java ☕ | C++ | SQL
+- 🔧 **Tools & Frameworks**: Maven | JavaFX | MaterialFX | JPA | Spring (in progress)
+- 🐳 **Technologies**: Docker | Git | GitHub
+- 💼 **IDEs**: IntelliJ IDEA | NetBeans
 
-🏴‍☠️ Experiment with Docker & JPA for backend systems
+---
 
-🔍 Always learning new technologies!
+### 🔥 What I Do
 
-📂 Projects
+- 🧠 Build projects with **Java** & **C++**
+- 📦 Experiment with **Docker**, **JPA** and backend architecture
+- 📈 Always exploring new technologies and best practices
 
-🔹 Check out my repositories for exciting projects!
+---
 
-🚀 Let's code and build something amazing together!
-<!--
-**gamboaxx/gamboaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📂 Featured Projects
 
-Here are some ideas to get you started:
+- 🔍 Check out my repositories for exciting and practical projects!
+- 📊 I enjoy working on real-world applications with clean code and structured design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤝 Let's Connect!
+
+- 💬 I'm open to collaboration, team projects, and learning together
+- 📫 _[Optional: add your email or LinkedIn if querés]_
+
+---
+
+### 💡 Quote I Live By
+> *"The best way to learn is by doing."*
+
+---
+
+**Let’s code and build something amazing together! 🚀**
