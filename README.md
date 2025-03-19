@@ -50,9 +50,7 @@
 ### 📫 Contact Me
 
 - ✉️ **Email:** [gamboae730@gmail.com](mailto:gamboae730@gmail.com)  
-- 💼 **LinkedIn:** [Tu perfil de LinkedIn aquí](https://www.linkedin.com/in/TU_USUARIO_LINKEDIN)
-
-> *(Reemplazá ese link con tu URL real de LinkedIn si tenés)*
+- 💼 **LinkedIn:** https://www.linkedin.com/in/emmanuel-gamboa-b49611357/
 
 ---
 
