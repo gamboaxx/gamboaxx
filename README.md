@@ -38,8 +38,8 @@
 
 ### 🤝 Let's Connect!
 
-- 💬 I'm open to collaboration, team projects, and learning together
-- 📫 _[Optional: add your email or LinkedIn if querés]_
+- 📫 Email: **gamboae730@gmail.com**
+- 💬 Open to collaborations, team projects, and continuous learning
 
 ---
 
