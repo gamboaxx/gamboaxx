@@ -50,7 +50,23 @@
 ### 📊 Languages I've Worked With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamboaxx&layout=compact&langs_count=6&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamboaxx&layout=compact&langs_count=6&theme=tokyonight" />
+</p>
+
+---
+
+### ⚙️ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gamboaxx&show_icons=true&theme=tokyonight&hide_title=true" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gamboaxx&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
