@@ -47,6 +47,14 @@
 
 ---
 
+### 📊 Languages I've Worked With
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamboae730&layout=compact&langs_count=6&theme=radical" />
+</p>
+
+---
+
 ### 📫 Contact Me
 
 - ✉️ **Email:** [gamboae730@gmail.com](mailto:gamboae730@gmail.com)  
