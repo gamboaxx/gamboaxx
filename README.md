@@ -50,7 +50,7 @@
 ### 📊 Languages I've Worked With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamboae730&layout=compact&langs_count=6&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamboaxx&layout=compact&langs_count=6&theme=radical" />
 </p>
 
 ---
