@@ -58,7 +58,7 @@
 ### ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gamboaxx&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gamboaxx&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20🔥" />
 </p>
 
 ---
@@ -67,6 +67,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gamboaxx&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamboaxx&theme=tokyo-night" />
 </p>
 
 ---
