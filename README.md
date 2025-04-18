@@ -50,7 +50,7 @@
 ### 📊 Languages I've Worked With
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gamboaxx&layout=compact&langs_count=6&theme=tokyonight&hide_progress=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gamboaxx&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 
 ---
