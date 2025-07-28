@@ -50,7 +50,7 @@
 ### 📊 Languages I've Worked With
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gamboaxx&layout=compact&langs_count=6&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamboaxx&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ### ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gamboaxx&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats%20🔥" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gamboaxx&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
